@@ -8,7 +8,7 @@ Sou Desenvolvedor Front End Pleno apaixonado por criar interfaces de usuário in
 
 ### 🚀 Sobre Mim
 
-Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design de interfaces** e **experiência do usuário**. Gosto de transformar transformar ideias em código e criar soluções visuais envolventes.
+Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design de interfaces** e **experiência do usuário**. Gosto de transformar ideias em código e criar soluções visuais envolventes.
 
 ### 🎓 Formação Acadêmica
 
@@ -28,7 +28,11 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 - **Gulp**: Ferramenta de automação de tarefas que ajuda a otimizar o fluxo de trabalho de desenvolvimento, incluindo tarefas como compilação de Sass, minificação de arquivos e recarregamento automático do navegador.
 - **Bootstrap**: Framework front-end que fornece componentes prontos e um sistema de grid responsivo para criar layouts bonitos e funcionais rapidamente. 
 - **Semantic UI**: Framework que utiliza classes de CSS descritivas para criar interfaces de usuário modernas e amigáveis. 
-- **npm**: Gerenciador de pacotes para o JavaScript que facilita a instalação e a gestão de bibliotecas e ferramentas. 
+- **npm**: Gerenciador de pacotes para o JavaScript que facilita a instalação e a gestão de bibliotecas e ferramentas.
+
+### 💼 Projetos em Destaque
+
+🔍 **Conheça alguns dos meus projetos no Portfólio do GitHub abaixo** 👇👇👇
 
 ### 🤝 Vamos Juntos!
 
