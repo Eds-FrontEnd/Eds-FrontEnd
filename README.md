@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Edson! 👋
 
-<!--
-**Eds-FrontEnd/Eds-FrontEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Front End Pleno 🖥️
 
-Here are some ideas to get you started:
+🌟 **Bem-vindo ao meu perfil GitHub!** 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Desenvolvedor Front End Pleno apaixonado por criar interfaces de usuário incríveis e funcionais. Aqui, você encontrará alguns dos meus projetos mais recentes e interessantes. 🚀
+
+### 🚀 Sobre Mim
+
+Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design de interfaces** e **experiência do usuário**. Gosto de transformar transformar ideias em código e criar soluções visuais envolventes.
+
+### 🎓 Formação Acadêmica
+
+- **Graduação Completa em Análise e Desenvolvimento de Sistemas**  
+
+### 🔧 Habilidades Principais
+
+- **HTML5** - Construção de páginas web estruturadas.
+- **CSS3** - Estilização de páginas com CSS3, incluindo preprocessadores como Sass e Less.
+- **JavaScript** - Desenvolvimento dinâmico e interativo com Vanilla JS, jQuery e frameworks como React, Vue.js e Angular.
+- **Frameworks e Bibliotecas** - Utilização de **Bootstrap** e **Semantic UI** para criação de interfaces ricas e responsivas e outras ferramentas de UI.
+- **Ferramentas de Desenvolvimento** - Experiência com **Gulp** para automação de tarefas, **Webpack** para gerenciamento de módulos e transpilação de código, e **Git** para controle de versão.
+
+### 🛠️ Ferramentas e Tecnologias
+
+- **jQuery**: Biblioteca JavaScript que facilita a manipulação do DOM e a criação de efeitos dinâmicos.
+- **Gulp**: Ferramenta de automação de tarefas que ajuda a otimizar o fluxo de trabalho de desenvolvimento, incluindo tarefas como compilação de Sass, minificação de arquivos e recarregamento automático do navegador.
+- **Bootstrap**: Framework front-end que fornece componentes prontos e um sistema de grid responsivo para criar layouts bonitos e funcionais rapidamente. 
+- **Semantic UI**: Framework que utiliza classes de CSS descritivas para criar interfaces de usuário modernas e amigáveis. 
+- **npm**: Gerenciador de pacotes para o JavaScript que facilita a instalação e a gestão de bibliotecas e ferramentas. 
+
+### 🤝 Vamos Juntos!
+
+Estou sempre aberto a novas ideias e colaborações. Quer bater um papo sobre desenvolvimento web, não hesite em me contatar!
+
+---
+
+**Obrigado por visitar meu perfil!** 🙌
