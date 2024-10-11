@@ -4,7 +4,7 @@
 
 🌟 **Bem-vindo ao meu perfil GitHub!** 🌟
 
-Sou Desenvolvedor Front End Pleno apaixonado por tecnologia. Aqui, você encontrará alguns dos meus projetos mais recentes e interessantes. 🚀
+Sou Desenvolvedor Front End Pleno apaixonado por tecnologia. Aqui, você encontrará alguns dos meus projetos mais recentes e interessantes. 
 
 ### 🚀 Sobre Mim
 
