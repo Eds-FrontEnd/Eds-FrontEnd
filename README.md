@@ -35,12 +35,20 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Semantic_UI-35B8E0?style=for-the-badge&logo=semantic-ui&logoColor=white" alt="Semantic UI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/CorelDRAW-1F9C3D?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
 </p>
+
+
 
 ### 💼 Projetos em Destaque
 
@@ -53,7 +61,9 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
   
 ### 🤝 Vamos Juntos!
 
-Estou sempre aberto a novas ideias e colaborações. Quer bater um papo sobre desenvolvimento web, não hesite em me contatar!
+Estou sempre acessível a novas ideias e colaborações. Se você quer conversar sobre desenvolvimento front end, sinta-se à vontade para me contatar!
+
+🚀 Vamos criar algo extraordinário juntos? 🚀
 
 ---
 
