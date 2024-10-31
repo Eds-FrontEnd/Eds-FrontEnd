@@ -54,16 +54,20 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 
 🔍 **Conheça alguns dos meus projetos no Portfólio do GitHub abaixo** 👇👇👇
 
-- [Projeto 1 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
-- [Projeto 2 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
-- [Projeto 3 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
-- [Projeto 4 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
-  
+- [Projeto 1 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
+- [Projeto 2 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
+- [Projeto 3 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
+- [Projeto 4 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
+- [Projeto 5 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
+- [Projeto 6 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
+- [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
+- [Projeto 8 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
+
 ### 🤝 Vamos Juntos!
 
 Estou sempre acessível a novas ideias e colaborações. Se você quer conversar sobre desenvolvimento front end, sinta-se à vontade para me contatar!
 
-🚀 Vamos criar algo extraordinário juntos? 🚀
+🚀 **Vamos criar algo extraordinário juntos?** 🚀
 
 ---
 
