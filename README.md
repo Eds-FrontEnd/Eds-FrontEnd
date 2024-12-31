@@ -54,14 +54,15 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 
 🔍 **Conheça alguns dos meus projetos no Portfólio do GitHub abaixo** 👇👇👇
 
-- [Projeto 1 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
-- [Projeto 2 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
-- [Projeto 3 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
-- [Projeto 4 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
-- [Projeto 5 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
-- [Projeto 6 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
-- [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
-- [Projeto 8 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
+- [Projeto 1 - Angular](https://github.com/Eds-FrontEnd/fashion-stories)
+- [Projeto 2 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
+- [Projeto 3 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
+- [Projeto 4 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
+- [Projeto 5 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
+- [Projeto 6 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
+- [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
+- [Projeto 8 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
+- [Projeto 9 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
 
 ### 🤝 Vamos Juntos!
 
