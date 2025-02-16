@@ -57,12 +57,13 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 - [Projeto 1 - Angular](https://github.com/Eds-FrontEnd/fashion-stories)
 - [Projeto 2 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
 - [Projeto 3 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
-- [Projeto 4 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
-- [Projeto 5 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
-- [Projeto 6 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
-- [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
-- [Projeto 8 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
-- [Projeto 9 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
+- [Projeto 4 - React](https://github.com/Eds-FrontEnd/radio-browser-reac)
+- [Projeto 5 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
+- [Projeto 6 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
+- [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
+- [Projeto 8 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
+- [Projeto 9 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
+- [Projeto 10 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
 
 ### 🤝 Vamos Juntos!
 
