@@ -57,7 +57,7 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 - [Projeto 1 - Angular](https://github.com/Eds-FrontEnd/fashion-stories)
 - [Projeto 2 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
 - [Projeto 3 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
-- [Projeto 4 - React](https://github.com/Eds-FrontEnd/radio-browser-reac)
+- [Projeto 4 - React](https://github.com/Eds-FrontEnd/radio-browser-react)
 - [Projeto 5 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
 - [Projeto 6 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
 - [Projeto 7 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
