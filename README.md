@@ -19,7 +19,8 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 - **HTML5** - Construção de páginas web estruturadas.
 - **CSS3** - Estilização de páginas com CSS3, incluindo preprocessadores como Sass e Less.
 - **JavaScript** - Desenvolvimento dinâmico e interativo com Vanilla JS, jQuery e frameworks como React, Vue.js e Angular.
-- **Frameworks e Bibliotecas** - Utilização de **Bootstrap** e **Semantic UI** para criação de interfaces ricas e responsivas e outras ferramentas de UI.
+- **Frameworks e Bibliotecas** - Utilização de Bootstrap, Semantic UI, Next.js, Tailwind CSS para criação de interfaces ricas e responsivas e outras ferramentas de UI.
+- **Docker** - Criação e gerenciamento de containers para ambientes de desenvolvimento consistentes e escaláveis.
 - **Ferramentas de Desenvolvimento** - Experiência com **Gulp** para automação de tarefas, **Webpack** para gerenciamento de módulos e transpilação de código, e **Git** para controle de versão.
 
 ### 🛠️ Ferramentas e Tecnologias
