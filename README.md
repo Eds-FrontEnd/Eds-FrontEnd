@@ -70,6 +70,7 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 - [Projeto 9 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
 - [Projeto 10 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
 - [Projeto 11 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
+- [Todos os Projetos](https://github.com/Eds-FrontEnd?tab=repositories)
 
 ### 🤝 Vamos Juntos!
 
