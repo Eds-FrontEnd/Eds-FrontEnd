@@ -27,7 +27,9 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 
 - **jQuery**: Biblioteca JavaScript que facilita a manipulação do DOM e a criação de efeitos dinâmicos.
 - **Gulp**: Ferramenta de automação de tarefas que ajuda a otimizar o fluxo de trabalho de desenvolvimento, incluindo tarefas como compilação de Sass, minificação de arquivos e recarregamento automático do navegador.
-- **Bootstrap**: Framework front-end que fornece componentes prontos e um sistema de grid responsivo para criar layouts bonitos e funcionais rapidamente. 
+- **Bootstrap**: Framework front-end que fornece componentes prontos e um sistema de grid responsivo para criar layouts bonitos e funcionais rapidamente.
+- **Tailwind CSS**:  Framework CSS utilizando classes predefinidas e reutilizáveis. Ele segue uma abordagem de design atômico, facilitando a customização sem a necessidade de escrever código CSS adicional.
+- **Styled Components**: Biblioteca para React e outras bibliotecas JavaScript, permitindo que você escreva CSS dentro de seus componentes. Técnica de CSS-in-JS, sendo mais dinâmica e modular de estilizar aplicativos.
 - **Semantic UI**: Framework que utiliza classes de CSS descritivas para criar interfaces de usuário modernas e amigáveis. 
 - **npm**: Gerenciador de pacotes para o JavaScript que facilita a instalação e a gestão de bibliotecas e ferramentas.
 
@@ -50,10 +52,8 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
-
-
-
 
 ### 💼 Projetos em Destaque
 
