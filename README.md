@@ -60,7 +60,7 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 🔍 **Conheça alguns dos meus projetos no Portfólio do GitHub abaixo** 👇👇👇
 
 - [Projeto 1 - Next](https://github.com/Eds-FrontEnd/connect)
-- [Projeto 2 - React][(https://github.com/Eds-FrontEnd/dio-clone)]
+- [Projeto 2 - React](https://github.com/Eds-FrontEnd/dio-clone)
 - [Projeto 3 - React](https://github.com/Eds-FrontEnd/radio-browser-react)
 - [Projeto 4 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
 - [Projeto 5 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
