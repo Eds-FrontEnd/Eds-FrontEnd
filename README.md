@@ -59,20 +59,21 @@ Sou um entusiasta de **desenvolvimento web** com uma forte paixão por **design 
 
 🔍 **Conheça alguns dos meus projetos no Portfólio do GitHub abaixo** 👇👇👇
 
-- [Projeto 1 - Next](https://github.com/Eds-FrontEnd/connect)
-- [Projeto 2 - React](https://github.com/Eds-FrontEnd/dio-clone)
-- [Projeto 3 - React](https://github.com/Eds-FrontEnd/radio-browser-react)
-- [Projeto 4 - React](https://github.com/Eds-FrontEnd/react-weather-forecast)
-- [Projeto 5 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp)
-- [Projeto 6 - Angular](https://github.com/Eds-FrontEnd/fashion-stories)
-- [Projeto 7 - Angular](https://github.com/Eds-FrontEnd/omnichannel-beconnect)
-- [Projeto 8 - Angular](https://github.com/Eds-FrontEnd/angular-blog)
-- [Projeto 9 - Angular](https://github.com/Eds-FrontEnd/angular-quizz)
-- [Projeto 10 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes)
-- [Projeto 11 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva)
-- [Projeto 12 - Javascript](https://github.com/Eds-FrontEnd/fishing-day)
-- [Projeto 13 - Javascript](https://github.com/Eds-FrontEnd/buscapet)
-- [Todos os Projetos](https://github.com/Eds-FrontEnd?tab=repositories)
+- [Projeto 1 - Next](https://github.com/Eds-FrontEnd/connect) - Projeto Connect
+- [Projeto 2 - Next](https://github.com/Eds-FrontEnd/blog) - Projeto Blog Next
+- [Projeto 3 - React](https://github.com/Eds-FrontEnd/dio-clone) - Projeto DIO 
+- [Projeto 4 - React](https://github.com/Eds-FrontEnd/radio-browser-react) - Projeto Radio 
+- [Projeto 5 - React](https://github.com/Eds-FrontEnd/react-weather-forecast) - Projeto Previsão do Tempo
+- [Projeto 6 - React](https://github.com/Eds-FrontEnd/reactjs-movieapp) - Projeto MovieApp
+- [Projeto 7 - Angular](https://github.com/Eds-FrontEnd/fashion-stories) - Projeto Loja Virtual
+- [Projeto 8 - Angular](https://github.com/Eds-FrontEnd/omnichannel-beconnect) - Projeto Beconnect
+- [Projeto 9 - Angular](https://github.com/Eds-FrontEnd/angular-blog) - Projeto Blog Angular
+- [Projeto 10 - Angular](https://github.com/Eds-FrontEnd/angular-quizz) - Projeto Quizz Angular
+- [Projeto 11 - Javascript](https://github.com/Eds-FrontEnd/hurbvibe-shoes) - Projeto Loja Virtual Javascript (Vanilla)
+- [Projeto 12 - Javascript](https://github.com/Eds-FrontEnd/site-lavagem-automotiva) - Projeto Site Lavagem Automotiva
+- [Projeto 13 - Javascript](https://github.com/Eds-FrontEnd/fishing-day) - Projeto Jogo Pescaria
+- [Projeto 14 - Javascript](https://github.com/Eds-FrontEnd/buscapet) - Projeto BuscaPet
+- [Todos os Projetos](https://github.com/Eds-FrontEnd?tab=repositories) - Listagem completa de Projetos
 
 ### 🤝 Vamos Juntos!
 
